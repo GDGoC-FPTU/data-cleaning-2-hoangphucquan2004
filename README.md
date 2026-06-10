@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=24110878&assignment_repo_type=AssignmentRepo)
 # Morning Mini-Lab: Data Cleaning Sprint
 
 Chào mừng các bạn đến với bài Lab về **Data Sanitization**. Trong bài thực hành này, chúng ta sẽ học cách xử lý dữ liệu thô (toxic data) để đảm bảo tính an toàn (Privacy) và độ tin cậy (Reliability) trước khi đưa vào hệ thống AI.
